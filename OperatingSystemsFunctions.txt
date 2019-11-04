@@ -1,3 +1,6 @@
 One of the main functions of an operating system is to have control over the whole system. 
 There are many aspects to this from keep everything secure to protecting the overall "health" of the system. 
 It uses passwords to help protect sensitive information within the system.
+Like any good operating system, memory will need to be managed.
+Operating systems help keep all the information thrown into your computer into workable and manageable fashion.
+It manages everything from how long things are stored to which bytes of memory are used.
