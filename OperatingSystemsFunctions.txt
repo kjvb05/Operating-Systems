@@ -4,3 +4,6 @@ It uses passwords to help protect sensitive information within the system.
 Like any good operating system, memory will need to be managed.
 Operating systems help keep all the information thrown into your computer into workable and manageable fashion.
 It manages everything from how long things are stored to which bytes of memory are used.
+File management is another key function of operating systems.
+It files things in an orderly fashion to help locate documents with ease.
+Having an efficient way to organize things within the computer is vital when handling large amounts of data.
